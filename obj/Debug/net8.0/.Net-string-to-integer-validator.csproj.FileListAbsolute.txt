@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\bin\Debug\net8.0\.Net-string-to-integer-validator.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\bin\Debug\net8.0\.Net-string-to-integer-validator.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\bin\Debug\net8.0\.Net-string-to-integer-validator.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\bin\Debug\net8.0\.Net-string-to-integer-validator.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\bin\Debug\net8.0\.Net-string-to-integer-validator.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\refint\.Net-string-to-integer-validator.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\.Net-string-to-integer-validator.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.Net-string-to-integer-validator\obj\Debug\net8.0\ref\.Net-string-to-integer-validator.dll
